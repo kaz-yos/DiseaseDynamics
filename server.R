@@ -1,3 +1,7 @@
+### Dynamics of Infectious Diseases Shiny App
+## Originally authored by Mathew Kiang (https://github.com/mkiang) in 2013
+## Modified by Kazuki Yoshida in 2014
+
 ## All of these models are (loosely) derived from assignments in my Dynamics of
 ## Infectious Disease (EPI 501) course at HSPH. There is a nonzero probability
 ## errors are contained within.

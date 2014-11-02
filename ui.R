@@ -1,3 +1,8 @@
+### Dynamics of Infectious Diseases Shiny App
+## Originally authored by Mathew Kiang (https://github.com/mkiang) in 2013
+## Modified by Kazuki Yoshida in 2014
+
+
 library(shiny)
 
 # Define UI
